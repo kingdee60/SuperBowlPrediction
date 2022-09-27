@@ -13,7 +13,7 @@ To Begin, a little background into the sport that we will setting our model to. 
 
 ### Project Objective 
 
-A deep look into concepts of predicition and neural networks to find the next winner of the Super Bowl everytime!
+A deep look into concepts of predicition and neural networks to find the next winner of the Super Bowl everytime!!
 
 ### References
 https://en.wikipedia.org/wiki/Super_Bowl#cite_note-1
