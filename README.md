@@ -9,7 +9,7 @@ We plan to develop a new predicitve model for sports team's win advantage.
 
 ### Background
 
-To Begin, a liitle background into the sport that we will setting our model to. The Super Bowl is the annual final playoff game of the National Football League to determine the league champion. It has served as the final game of every NFL season since 1966, replacing the NFL Championship Game. The technology we are primarily utlizing for this project is Machine learning (ML). This is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.
+To Begin, a little background into the sport that we will setting our model to. The Super Bowl is the annual final playoff game of the National Football League to determine the league champion. It has served as the final game of every NFL season since 1966, replacing the NFL Championship Game. The technology we are primarily utlizing for this project is Machine learning (ML). This is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.
 
 ### Project Objective 
 
