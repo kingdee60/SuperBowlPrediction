@@ -3,17 +3,17 @@
 
 ###  Technology Advancement 
 
-We plan to develop a new predicitve model for sports team's win advantage. 
+We plan to develop new predicitve models for NFL Sports Team's win advantage. 
 
 ![image](https://user-images.githubusercontent.com/104388678/192389870-63ad38ed-45df-4367-9983-fda9954eb42b.png)
 
 ### Background
 
-To Begin, a little background into the sport that we will setting our model to. The Super Bowl is the annual final playoff game of the National Football League to determine the league champion. It has served as the final game of every NFL season since 1966, replacing the NFL Championship Game. The technology we are primarily utlizing for this project is Machine learning (ML). This is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.
+To Begin, a little background into the sport that we will centering our models on. The Super Bowl is the annual final playoff game of the National Football League to determine the league champion. It has served as the final game of every NFL season since 1966, replacing the NFL Championship Game. The technology we are primarily utlizing for this project is Machine learning (ML). This is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.
 
 ### Project Objective 
 
-A deep look into concepts of predicition and neural networks to find the next winner of the Super Bowl everytime!!
+Using NFL data from 2011-2021, we will predict teams that will most likely go to the SuperBowl and one team that will most likely win.  We will develop a deep look into concepts of prediction and neural networks to find the next winner of the Super Bowl everytime!!
 
 ### References
 https://en.wikipedia.org/wiki/Super_Bowl#cite_note-1
