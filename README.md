@@ -17,8 +17,13 @@ Using NFL data from 2011-2021, we will predict teams that will most likely go to
 
 ### References
 https://www.nfl.com/stats/team-stats/
+
 https://www.nfl.com/standings/
+
 https://www.pro-football-reference.com/
+
 https://en.wikipedia.org/wiki/Super_Bowl#cite_note-1
+
 https://en.wikipedia.org/wiki/Machine_learning#cite_note-1
+
 Mitchell, Tom (1997). Machine Learning. New York: McGraw Hill. ISBN 0-07-042807-7. OCLC 36417892.
