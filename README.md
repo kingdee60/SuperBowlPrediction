@@ -28,7 +28,7 @@ Taking a "5-Prong" approach, we were able to narrow the landscape of 32 NFL team
 
 The winner of SuperBowl of LVII will be one of the following teams: `Green Bay Packers`, `Kansas City Chiefs`, `Tampa Bay Bucaneers`, `Dallas Cowboys`, `Philadelphia Eagles`, or the `Buffalo Bills`.
 
-We also started the framework of a 'Bot' using AWS that interprets data retrieved from an API source and communicates scores and teams based on preferences and interactions from users. 
+We also started the framework of a 'Bot' using AWS that interprets data retrieved from an API source and communicates NFL team scores based on preferences and interactions from users. 
 
 
 ### References
