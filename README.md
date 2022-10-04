@@ -20,11 +20,13 @@ Using NFL data from 2011-2021, we will predict teams that will most likely go to
 
 Taking a "5-Prong" approach, we were able to narrow the landscape of 32 NFL teams down to 6 teams most likely to contend for the SuperBowl. We were able to do this 12 weeks ahead of the end of the regular season.  By using a NFL sports tracking API, our model could update the prediction weekly based on wins and losses as the season draws nearer to the close. We believe that with more time to create additional coding and a few more weeks into the season, we could have predicted the winner with ~80-90% accuracy. See presentation and below for the following approaches used.
 
-* 'Logistic Regression" algorithm yielded a 79% accuracy for predicting winning/losing teams
-* 'Clustering' algorithm using KMeans and elbow method predicted the 'Top 7' likely teams based on an aggregated ten years of 'Wins' and 'Net Pts'
-* 'Deep Learning' Neural Network algorithm yielded three different results.  The best model predicted with 87.5% accuracy winning/losing teams
-* 'Decision Tree' algorithm yielded two teams.
-* 'MS Excel' Pivot tables using the 80:20 rule outline the 'Top 16' best performing teams most likely to win the nextSuperBowl. 
+* `Logistic Regression` algorithm yielded a 79% accuracy for predicting winning/losing teams
+* `Clustering` algorithm using KMeans and elbow method predicted the 'Top 7' likely teams based on an aggregated ten years of 'Wins' and 'Net Pts'
+* `Deep Learning` Neural Network algorithm yielded three different results.  The best model predicted with 87.5% accuracy winning/losing teams
+* `Decision Tree` algorithm yielded two teams.
+* `MS Excel` Pivot tables using the 80:20 rule outlined the 'Top 16' best performing teams most likely to win the nextSuperBowl. 
+
+The winner of SuperBowl of LVII will be one of the following teams: `Green Bay Packers`, `Kansas City Chiefs`, `Tampa Bay Bucaneers`, `Dallas Cowboys`, `Philadelphia Eagles`, or the `Buffalo Bills`.
 
 We also started the framework of a 'Bot' using AWS that interprets data retrieved from an API source and communicates scores and teams based on preferences and interactions from users. 
 
