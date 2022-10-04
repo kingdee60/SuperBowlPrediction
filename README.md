@@ -15,6 +15,20 @@ To begin, a background into the sport that we will be focusing our models on. Th
 
 Using NFL data from 2011-2021, we will predict teams that will most likely go to the SuperBowl and one team that will most likely win.  We will develop a deep look into concepts of prediction and neural networks to find the next winner of the Super Bowl everytime!
 
+
+### Project Summary
+
+Taking a "5-Prong" approach, we were able to narrow the landscape of 32 NFL teams down to 6 teams most likely to contend for the SuperBowl. We were able to do this 12 weeks ahead of the end of the regular season.  By using a NFL sports tracking API, our model could update the prediction weekly based on wins and losses as the season draws nearer to the close. We believe that with more time to create additional coding and a few more weeks into the season, we could have predicted the winner with ~80-90% accuracy. See presentation and below for the following approaches used.
+
+* 'Logistic Regression" algorithm yielded a 79% accuracy for predicting winning/losing teams
+* 'Clustering' algorithm using KMeans and elbow method predicted the 'Top 7' likely teams based on an aggregated ten years of 'Wins' and 'Net Pts'
+* 'Deep Learning' Neural Network algorithm yielded three different results.  The best model predicted with 87.5% accuracy winning/losing teams
+* 'Decision Tree' algorithm yielded two teams.
+* 'MS Excel' Pivot tables using the 80:20 rule outline the 'Top 16' best performing teams most likely to win the nextSuperBowl. 
+
+We also started the framework of a 'Bot' using AWS that interprets data retrieved from an API source and communicates scores and teams based on preferences and interactions from users. 
+
+
 ### References
 https://www.nfl.com/stats/team-stats/
 
